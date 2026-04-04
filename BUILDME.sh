@@ -6,8 +6,6 @@ source .builder.sh
 
 npm install
 
-vim .browserslistrc
-
 for file in src/pub/res/*; do
 
   copy_file "$file" "tgt/pub/${file##*/}"
