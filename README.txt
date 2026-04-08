@@ -1,4 +1,0 @@
-
-MyWebX
-
-This is MyWebX.
