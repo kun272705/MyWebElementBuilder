@@ -1,5 +1,5 @@
 {
-  "name": "mywebElementbuilder",
+  "name": "mywebelementbuilder",
   "version": "1.0.0",
   "devDependencies": {
     "@swc/cli": "^0.8.1",
